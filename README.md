@@ -37,10 +37,9 @@ I'm an indie developer with a core passion for filmmaking. I love to build versi
 - 👨‍💻 All of my projects are available at [https://github.com/MrBunbao](https://github.com/MrBunbao)
 - 💬 Ask me about **anything tech**
 - 📫 How to reach me **me@andydao.net**
-- ⚡ Fun fact **Love shooting cinematography**
+- ⚡ Fun fact **Love shooting cinematography** Check out some weddings I've shot at my (Vimeo!)[https://vimeo.com/andydao]
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBunbao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
