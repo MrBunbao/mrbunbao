@@ -25,16 +25,12 @@ I'm an indie developer with a core passion for filmmaking. I love to build versi
 
 
 ### Education:
-- [Asteroids Game](https://github.com/MrBunbao/Asteroids_Game) - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) - 
-- [Flight Optimizer](https://github.com/MrBunbao/FlightOptimizer) - **Data Structures and Algorithms** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- [Asteroids Game](https://github.com/MrBunbao/Asteroids_Game)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- [Flight Optimizer](https://github.com/MrBunbao/FlightOptimizer) **Data Structures and Algorithms** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h2>🤳Connect with me:</h2>
+## 🤳Connect with me:
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/c/
-[linkedin]: https://linkedin.com/in/mrandydao/
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrandydao/)
 
 Here are some ideas to get you started:
 
