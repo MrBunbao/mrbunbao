@@ -1,7 +1,10 @@
-<h1>Heya, Andy here! <br/><a href="https://github.com/MrBunbao">Dev/Tinker</a>, <a href="www.linkedin.com/in/mrandydao/">LinkedIn</a>
+# 🍜 Andy Dao
 
-<h2>What do I know? </h2>
+**`_Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_`**
 
+I'm an indie developer with a core passion for filmmaking. I love to build versions of my own apps to better help any tasks. Whether it's streamlining workflows or crafting tools that provide that extra bit of convenience, I believe every task can benefit from thoughtful innovation. I enjoy the challenge of creating applications that enhance quality of life, even if it takes me hours to perfect the tiniest detail. My goal is to make a difference, one project at a time.
+
+## 📚 What do I know?
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
