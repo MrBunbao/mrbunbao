@@ -18,7 +18,7 @@ I'm an indie developer with a core passion for filmmaking. I love to build versi
 
 ### Dev Projects | HomeLab:
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - Active Directory Bulk User Creation
 
 - <b>Home Automation</b>
   - [Home Assistant](https://github.com/MrBunbao/HomeAssistantLab) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. [https://www.home-assistant.io/](https://www.home-assistant.io/)
