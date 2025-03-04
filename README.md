@@ -1,10 +1,11 @@
 # 🍜 Andy Dao
 
-**`_Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_`**
+**` _Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_ `**
 
 I'm an indie developer with a core passion for filmmaking. I love to build versions of my own apps to better help any tasks. Whether it's streamlining workflows or crafting tools that provide that extra bit of convenience, I believe every task can benefit from thoughtful innovation. I enjoy the challenge of creating applications that enhance quality of life, even if it takes me hours to perfect the tiniest detail. My goal is to make a difference, one project at a time.
 
 ## 📚 What do I know?
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
@@ -14,19 +15,19 @@ I'm an indie developer with a core passion for filmmaking. I love to build versi
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<h2>👨‍💻 Development Projects && Education 🎓</h2>
+## 👨‍💻 Development Projects && Education 🎓
 
 ### Dev Projects | HomeLab:
-- <b>PowerShell</b>
+- **PowerShell**
   - Active Directory Bulk User Creation
 
-- <b>Home Automation</b>
+- **Home Automation**
   - [Home Assistant](https://github.com/MrBunbao/HomeAssistantLab) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. [https://www.home-assistant.io/](https://www.home-assistant.io/)
 
 
 ### Education:
 - [Asteroids Game](https://github.com/MrBunbao/Asteroids_Game)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- [Flight Optimizer](https://github.com/MrBunbao/FlightOptimizer) **Data Structures and Algorithms** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- [Flight Optimizer](https://github.com/MrBunbao/FlightOptimizer) - **Data Structures and Algorithms** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🤳Connect with me:
 
