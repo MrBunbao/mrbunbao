@@ -1,6 +1,7 @@
 # 🍜 Andy Dao
 
 **` _Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_ `**
+
 🚀 I'm a jack-of-all-trades, and super quick to learn new technology. I'm currently working at Huntsman Cancer Institute to help further my knowledge and skills in hopes of being able to help others more.
 
 I'm an tech head. I love to build versions of my own apps to better help any tasks, especially those mundane. I believe every task can benefit from thoughtful innovation. I enjoy the challenge of creating applications that enhance quality of life, even if it takes me longer than expected to perfect the tiniest detail. My goal is to make a difference, one day at a time. 
