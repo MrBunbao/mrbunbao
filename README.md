@@ -1,4 +1,4 @@
-# 🍜 Andy Dao
+![👋 Hi, my name is Andy Dao](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-ea64-622f-82cb-66734daa3796/raw?se=2025-08-01T09%3A47%3A26Z&sp=r&sv=2024-08-04&sr=b&scid=ae02377e-1867-52c4-a6af-ddd144edd9d5&skoid=f28c0102-4d9d-4950-baf0-4a8e5f6cf9d4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-31T21%3A15%3A03Z&ske=2025-08-01T21%3A15%3A03Z&sks=b&skv=2024-08-04&sig=r8AMBRBMcleJhXxQjQ/ukatZecF%2BY4ftzBcmWzoqsZA%3D)
 
 **` _Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_ `**
 
