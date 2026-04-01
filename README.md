@@ -1,55 +1,27 @@
-👋 Hi, my name is Andy Dao
+# Hi, I'm Andy Dao
 
-**` _Digital Tinkerer (Developer/Filmmaker/Creator/Home Automations)_ `**
+IT professional at Huntsman Cancer Institute. Homelab and Home Assistant enthusiast. I love solving problems and building tools.
 
-🚀 I'm a jack-of-all-trades, and super quick to learn new technology. I'm currently working at Huntsman Cancer Institute to help further my knowledge and skills in hopes of being able to help others more.
+## What I work with
 
-I'm an tech head. I love to build versions of my own apps to better help any tasks, especially those mundane. I believe every task can benefit from thoughtful innovation. I enjoy the challenge of creating applications that enhance quality of life, even if it takes me longer than expected to perfect the tiniest detail. My goal is to make a difference, one day at a time. 
-
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 IT Systems Administration / Software Developer skill sets**
-- 🌱 I'm currently learning: **📚 Home Automation with Home Assistant and learning how to build a solid redundant homelab to simulate real work environment issues**
-- 💬 Ask me about: **💡 ANYTHING HOME ASSISTANT**
-
-## 📚 What do I know?
-
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=homeassistant&logoColor=white)
 
-## 👨‍💻 Development Projects && Education 🎓
+## Projects
 
-### Dev Projects | HomeLab:
-- **PowerShell**
-  - Active Directory Bulk User Creation
+- **[open-browser-search](https://github.com/MrBunbao/open-browser-search)** - Raycast extension for searching any website with browser selection. Submitted to the [Raycast Store](https://github.com/raycast/extensions/pull/26052).
+- **[scrix](https://github.com/MrBunbao/scrix)** - Camera stream discovery tool for Scrypted NVR, written in Go.
+- **[homelab](https://github.com/MrBunbao/homelab)** - 3-node Proxmox cluster with Docker stacks, reverse proxy, DNS, and Tailscale mesh networking.
+- **[jellyfin-media-server](https://github.com/MrBunbao/jellyfin-media-server)** - Dockerized Jellyfin media server stack with automated requests and downloads.
+- **[HomeAssistantConfig](https://github.com/MrBunbao/HomeAssistantConfig)** - My Home Assistant configuration for smart home automation with Zigbee, Z-Wave, and LLM-powered cameras.
 
-- **Home Automation**
-  - [Home Assistant](https://github.com/MrBunbao/HomeAssistantLab) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. [https://www.home-assistant.io/](https://www.home-assistant.io/)
-
-
-### Education:
-- [Asteroids Game](https://github.com/MrBunbao/Asteroids_Game)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- [Flight Optimizer](https://github.com/MrBunbao/FlightOptimizer) - **Data Structures and Algorithms** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## 🤳Connect with me:
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrandydao/)
-
-- 🔭 I’m currently working on [Home Assistant (My glorious Smart Home 2+ year project)](https://github.com/MrBunbao/HomeAssistantLab)
-- 🌱 I’m currently learning **PowerShell**
-- 👨‍💻 All of my projects are available at [https://github.com/MrBunbao](https://github.com/MrBunbao)
-- 💬 Ask me about **anything tech**
-- 📫 How to reach me **me@andydao.net**
-- ⚡ Fun fact **Love shooting cinematography** Check out some weddings I've shot at my (Vimeo!)[https://vimeo.com/andydao]
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBunbao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+[![Portfolio](https://img.shields.io/badge/andydao.dev-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://andydao.dev)
+[![Email](https://img.shields.io/badge/me@andydao.net-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@andydao.net)
